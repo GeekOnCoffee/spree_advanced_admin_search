@@ -1,8 +1,7 @@
 SpreeAdvancedAdminSearch
 ========================
 
-Introduction goes here.
-
+Simple Extension that adds search fields to the Admin. Starting with Order search, but will look at other searches as well. 
 
 Example
 =======
@@ -18,4 +17,4 @@ Be sure to bundle your dependencies and then create a dummy test app for the spe
     $ bundle exec rake test app
     $ bundle exec rspec spec
 
-Copyright (c) 2012 [name of extension creator], released under the New BSD License
+Copyright (c) 2012 Andrew Hooker, released under the New BSD License
